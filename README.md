@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @agwanyaseen
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter and Dart 
 - 📫 How to reach me "yaseen04071998@gmail.com"
 
 <!---
