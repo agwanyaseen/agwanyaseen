@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @agwanyaseen
 - 👀 I’m interested in Development
-- Currently a Backend Developer using Dotnet as my tool to develope web api's 🖥️
+- Currently a Backend Developer in [1Rivet](https://www.1rivet.com) 🖥️
 - I can also write sql(I know everyone can 😄)
 - 🌱 Also learning Flutter and Dart 📱
 - 📫 How to reach me 
