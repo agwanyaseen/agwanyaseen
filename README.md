@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @agwanyaseen
+- 👋 Hi, I’m **YASEEN AGWAN**
 - 👀 I’m interested in Development
 - Currently a Backend Developer in [1Rivet](https://www.1rivet.com) 🖥️
 - I can also write sql(I know everyone can 😄)
